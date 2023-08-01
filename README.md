@@ -1,2 +1,1 @@
-# LOCAL
-Linux 
+hello this is a local exploit
